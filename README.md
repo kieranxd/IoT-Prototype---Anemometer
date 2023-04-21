@@ -168,5 +168,5 @@ Sometimes it takes a while for the charts to update, that's why there are some s
 
 ![image3](https://i.gyazo.com/43114477ccc72212dc9b10ac0b731838.png)
 
-##Pipeline
-![image4](https://imgur.com/a/NtVcZyr)
+## Pipeline
+![image4](https://i.imgur.com/mqNor05.png)
