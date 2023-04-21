@@ -167,3 +167,6 @@ while True:
 Sometimes it takes a while for the charts to update, that's why there are some steep ups and downs.
 
 ![image3](https://i.gyazo.com/43114477ccc72212dc9b10ac0b731838.png)
+
+##Pipeline
+![image4])(https://imgur.com/a/NtVcZyr)
